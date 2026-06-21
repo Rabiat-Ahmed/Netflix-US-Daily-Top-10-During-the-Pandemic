@@ -36,4 +36,4 @@ The number of titles produced by Netflix is 406 while other companies produced a
 <img width="1076" height="1008" alt="all american" src="https://github.com/user-attachments/assets/856e1f30-91e6-4cd7-ba6c-e718144d6901" />
 All American was one of the top 10 titles. It was on the daily top 10 for 58 days; one month in 2020 and three months in 2021. In April 2020, it was on the daily top 10 for 20 days. After April 2020, it appeared again on the daily top 10 on the last 4 days in July 2021, every day in August 2021 and the first three days in September 2021. I noticed this trend while exploring the dataset. It was also one of the top 10 titles.
 
-Interested in finding out more? Explore the interative dashboard https://public.tableau.com/app/profile/rabiat.ahmed/viz/Netflix_16638770299160/Dashboard2
+Interested in finding out more? Explore the [interative dashboard](https://public.tableau.com/app/profile/rabiat.ahmed/viz/Netflix_16638770299160/Dashboard2)
